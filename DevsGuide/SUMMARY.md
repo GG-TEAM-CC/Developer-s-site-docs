@@ -1,11 +1,11 @@
 # Table of contents
 
-* [Developer's Guide](README.md)
+* [Welcome](README.md)
 
-## Getting Started
+## Metodología
 
-* [Quickstart](getting-started/quickstart.md)
-* [Publish your docs](getting-started/publish-your-docs.md)
+* [Extreme Programming](metodologia/quickstart.md)
+* [Publish your docs](metodologia/publish-your-docs.md)
 
 ## Basics
 

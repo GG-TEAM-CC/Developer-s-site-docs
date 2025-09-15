@@ -1,9 +1,7 @@
 ---
 icon: hand-wave
-cover:
-  light: https://gitbookio.github.io/onboarding-template-images/header.png
-  dark: >-
-    https://images.unsplash.com/photo-1607799279861-4dd421887fb3?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHw2fHxzb2Z0d2FyZXxlbnwwfHx8fDE3NTc4OTIwMzF8MA&ixlib=rb-4.1.0&q=85
+cover: >-
+  https://images.unsplash.com/photo-1579403124614-197f69d8187b?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwzfHxTb2Z0d2FyZXxlbnwwfHx8fDE3NTc4OTYyMTd8MA&ixlib=rb-4.1.0&q=85
 coverY: 0
 layout:
   width: wide
@@ -13,7 +11,7 @@ layout:
   title:
     visible: true
   description:
-    visible: true
+    visible: false
   tableOfContents:
     visible: false
   outline:
@@ -24,7 +22,7 @@ layout:
     visible: false
 ---
 
-# Developer's Guide
+# Welcome
 
 Welcome to the **Developer Guide** — your reference for building, collaborating, and delivering high-quality software in our team.\
 This guide explains **how we work**: our methodology (Extreme Programming), our coding and commit conventions, our collaboration practices, and our delivery process.
@@ -38,4 +36,5 @@ This guide explains **how we work**: our methodology (Extreme Programming), our 
 
 ### Jump right in
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>Methodology</td><td>Let's see what Methodology we'll use</td><td data-object-fit="cover"><a href="https://images.unsplash.com/photo-1611224885990-ab7363d1f2a9?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxfHxrYW5iYW58ZW58MHx8fHwxNzU3OTExMTc3fDA&#x26;ixlib=rb-4.1.0&#x26;q=85">https://images.unsplash.com/photo-1611224885990-ab7363d1f2a9?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwxfHxrYW5iYW58ZW58MHx8fHwxNzU3OTExMTc3fDA&#x26;ixlib=rb-4.1.0&#x26;q=85</a></td><td></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td><strong>Basics</strong></td><td>Learn the basics of GitBook</td><td></td><td></td><td><a href="broken-reference">Broken link</a></td></tr><tr><td><strong>Publish your docs</strong></td><td>Share your docs online</td><td></td><td></td><td><a href="getting-started/publish-your-docs.md">publish-your-docs.md</a></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-type="image">Cover image (dark)</th></tr></thead><tbody><tr><td>Agile Methodology</td><td>Let's see what Methodology we'll use</td><td data-object-fit="contain"><a href="https://www.credencys.com/wp-content/uploads/2023/02/Agile-Methodologyin-Software-Development.png">https://www.credencys.com/wp-content/uploads/2023/02/Agile-Methodologyin-Software-Development.png</a></td><td></td><td><a href="broken-reference">Broken link</a></td><td><a href="https://www.credencys.com/wp-content/uploads/2023/02/Agile-Methodologyin-Software-Development.png">https://www.credencys.com/wp-content/uploads/2023/02/Agile-Methodologyin-Software-Development.png</a></td></tr></tbody></table>
+
