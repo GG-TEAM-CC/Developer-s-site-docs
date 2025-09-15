@@ -4,7 +4,7 @@ cover: >-
   https://images.unsplash.com/photo-1579403124614-197f69d8187b?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHNlYXJjaHwzfHxTb2Z0d2FyZXxlbnwwfHx8fDE3NTc4OTYyMTd8MA&ixlib=rb-4.1.0&q=85
 coverY: 0
 layout:
-  width: wide
+  width: default
   cover:
     visible: true
     size: full
@@ -32,9 +32,9 @@ This guide explains **how we work**: our methodology (Extreme Programming), our 
 * Provide a **single source of truth** for development practices.
 * Ensure **consistency** across teams and projects.
 * Help new team members **onboard quickly**.
-* Support **agility and quality** through Extreme Programming (XP) practices.
+* Support **agility and quality** through Agile Methodology.
 
 ### Jump right in
 
-<table data-view="cards"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-type="image">Cover image (dark)</th></tr></thead><tbody><tr><td>Agile Methodology</td><td>Let's see what Methodology we'll use</td><td data-object-fit="contain"><a href="https://www.credencys.com/wp-content/uploads/2023/02/Agile-Methodologyin-Software-Development.png">https://www.credencys.com/wp-content/uploads/2023/02/Agile-Methodologyin-Software-Development.png</a></td><td></td><td><a href="https://app.gitbook.com/o/BvZHKQJfxHrhbyZf1TQp/s/bCOGLYDWbZKMbtWIcBtf/">Copy of Welcome</a></td><td><a href="https://www.credencys.com/wp-content/uploads/2023/02/Agile-Methodologyin-Software-Development.png">https://www.credencys.com/wp-content/uploads/2023/02/Agile-Methodologyin-Software-Development.png</a></td></tr></tbody></table>
+<table data-card-size="large" data-view="cards" data-full-width="false"><thead><tr><th></th><th></th><th data-hidden data-card-cover data-type="image">Cover image</th><th data-hidden></th><th data-hidden data-card-target data-type="content-ref"></th><th data-hidden data-type="image">Cover image (dark)</th></tr></thead><tbody><tr><td>Agile Methodology</td><td>Let's see what Methodology we'll use</td><td data-object-fit="contain"><a href="https://www.credencys.com/wp-content/uploads/2023/02/Agile-Methodologyin-Software-Development.png">https://www.credencys.com/wp-content/uploads/2023/02/Agile-Methodologyin-Software-Development.png</a></td><td></td><td><a href="https://app.gitbook.com/o/BvZHKQJfxHrhbyZf1TQp/s/bCOGLYDWbZKMbtWIcBtf/">Metodología</a></td><td><a href="https://www.credencys.com/wp-content/uploads/2023/02/Agile-Methodologyin-Software-Development.png">https://www.credencys.com/wp-content/uploads/2023/02/Agile-Methodologyin-Software-Development.png</a></td></tr></tbody></table>
 
