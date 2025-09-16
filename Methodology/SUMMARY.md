@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Metodología Ágil](README.md)
+* [Agile methodology](README.md)
 
 ## Extreme Programming
 
