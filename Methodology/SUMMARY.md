@@ -5,7 +5,6 @@
 ## Extreme Programming
 
 * [Guía Rápida](extreme-programming/quickstart.md)
-* [Publish your docs](extreme-programming/publish-your-docs.md)
 
 ## Basics
 
