@@ -1,10 +1,10 @@
 # Table of contents
 
-* [Agile methodology](README.md)
+* [Metodología ágil](README.md)
 
 ## Extreme Programming
 
-* [Quickstart](extreme-programming/quickstart.md)
+* [Guía Rápida](extreme-programming/quickstart.md)
 * [Publish your docs](extreme-programming/publish-your-docs.md)
 
 ## Basics
